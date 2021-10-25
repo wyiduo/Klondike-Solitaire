@@ -15,7 +15,7 @@ You will have 300 moves on easy, 230 moves on normal, and 160 moves on hard. The
 **Dependencies:**
 - Ready to Program 1.7 (Proprietary Java IDE)
 
-**[Download Ready to Program 1.7 (Free to download)](http://compsci.ca/holtsoft/RTP_install.exe)**
+**[Download Ready to Program 1.7 (Freeware)](http://compsci.ca/holtsoft/RTP_install.exe)**
 
 1. Download and install Ready to Program (RTP)
 2. Open RTP and open AppletFinal.java
