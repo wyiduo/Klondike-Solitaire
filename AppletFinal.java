@@ -1,6 +1,5 @@
-/* Klondike Solitaire by Yi Duo Wang
+/* Klondike Solitaire
  *
- * The rules can be found in the manual (basically in the proposal document).
  * Essentially, the goal of the game to to drag all the cards to the foundation piles, and the foundation piles go from A to K and must be of the same suit.
  * There are also 7 tableaus, which contain from 1 to 7 cards respectively and go from K to A and must alternate coloured suits. So, it must alternate D and H to C and S.
  * On tableaus, if you have a red suit, you can place any black suit, and vice versa.
@@ -77,12 +76,14 @@ public class AppletFinal extends Applet implements ActionListener, MouseListener
     // paint if the function used to paint to the screen
     public void paint (Graphics g)
     {
-        // wanted to use this to delay the program to only paint in certain intervals
+        /* // wanted to use this to delay the program to only paint in certain intervals
         while (System.currentTimeMillis () % 10 != 0)
         {
 
-        }
+        } */
+		
         super.paint (g);
+		
         // checks which screen the program is on and from there does different tasks
         if (program_state == 0)
         {
