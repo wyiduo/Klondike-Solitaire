@@ -12,7 +12,7 @@ You will have 300 moves on easy, 230 moves on normal, and 160 moves on hard. The
 
 ## Demo
 
-[![Demo](https://img.youtube.com/vi/jeZnDx3niXI/maxresdefault.jpg)](https://youtu.be/jeZnDx3niXI)
+[![Demo](demo_image.PNG)](https://youtu.be/jeZnDx3niXI)
 
 ## Running Klondike Solitaire
 
